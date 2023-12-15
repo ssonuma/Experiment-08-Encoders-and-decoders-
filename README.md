@@ -54,43 +54,41 @@ D7 = X Y Z
 ![image](https://user-images.githubusercontent.com/36288975/171543866-5a6eace6-8683-49d7-9c4f-a7cb30ec3035.png)
 ## Figure -04 8 to 3 Decoder implementation 
 
-### Procedure
-/* write all the steps invloved */
+### Procedure :
+Step 1: Create module encoder and decoder.
+Step 2: Get inputs and outputs for encoders and decoders.
+Step 3: Perform "or" operation for encoder and "and" logic for decoders.
+Step 4: Perform RTL LOGIC and get waveform.
+Step-5: End the module.
+
 
 
 
 ### PROGRAM 
-/*
+
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: SONU S
+RegisterNumber: 212223220107
 
+### CODE :
+## ENCODER :![ENCODER CODE](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/288a2d62-4d99-4e7d-8861-4fdd5406dce7)
 
+## DECODER :![DECODER CODE](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/2db79909-948d-4fc8-bd5c-781cc6a65502)
 
+### RTL LOGIC :
+## ENCODER :![ENCODER LOGIC](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/d9b4bc0f-8efc-4ce8-b58b-81980e3023a6)
 
+## DECODER :![DECODER LOGIC](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/b579d103-5cf2-45f6-8b63-7520ab37130d)
 
+### TIMING DIGRAMS :
+## ENCODER :![ENCODER TIME](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/c060d396-1b89-4ea7-b0ba-9337b93eb237)
 
-### RTL LOGIC  
+## DECODER :![DECODER TIME](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/daefa4f8-ccc3-4be8-bb13-e66ff065c18f)
 
+### TRUTH TABLE :
+## ENCODER :![ENCODER TT](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/ce2df31a-e022-4c2d-90da-704b85da5d6c)
 
+## DECODER :![DECODER T](https://github.com/ssonuma/Experiment-08-Encoders-and-decoders-/assets/150653312/58d89b5f-e04a-46a9-8bc1-4107cc79321b)
 
-
-
-
-
-
-### TIMING DIGRAMS  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
-
-
-### RESULTS 
+### RESULTS :
+Thus the program to desing encoder and decoder is done.
